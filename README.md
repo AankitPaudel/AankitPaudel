@@ -1,7 +1,7 @@
 # Hi, I'm Ankit Paudel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## About Me
-I'm a Computer Science student at the University of Idaho, deeply passionate about AI and Machine Learning. My current focus is on developing a Virtual Professor for my capstone project, where I'm pushing the boundaries of educational technology. I thrive on applying my programming expertise in Python, C++, and C# to create innovative solutions for real-world challenges.
+I'm a Computer Science student at the University of Idaho, deeply passionate about AI and Machine Learning. I thrive on applying my programming expertise in Python, C++, and C# to create innovative solutions for real-world challenges. My focus is on developing technologies that enhance how we interact with and process information, aiming to significantly improve learning experiences through technology
 
 ## 🎯 Current Focus
 - 🔭 Actively seeking internship or entry-level positions in software development and AI
